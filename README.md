@@ -1,2 +1,2 @@
 # airspace
-A collection of airspace files for paragliders
+A collection of airspace files for paragliders.
