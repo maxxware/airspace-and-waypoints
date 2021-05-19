@@ -1,6 +1,6 @@
 * TMZ height's raised for Paragliders, they have some exception  on flying a
 * transponder in TMZ-E zone's . The exception are described in the Notes found
-* @ AIP VFR Chart. For comments: Telegram airspace grp
+* @ AIP VFR Chart.
 *
 * April 2020
 
